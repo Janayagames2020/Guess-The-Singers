@@ -1,0 +1,1919 @@
+{
+    "tasksData": [
+        {
+            "name": "Easy Levels",
+            "localizedName": "ﻞﻬﺳ ﻯﻮﺘﺴﻣ",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Katy Perry",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "beyonce",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Taylor Swift",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Justin Bieber",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Zayn Malik",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Jennifer lopez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "John Mayer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Nicki Minaj",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Bruno Mars",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Lady Gaga",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Marc Anthony",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Camila cabello",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Shawn Mendes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Demi Lovato",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Rihanna",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Miley Cyrus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Britney Spears",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Shakira",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Drake",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Ariana Grande",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Selena gomez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Jason Derulo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Lauren Jauregui",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Dua Lipa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Mollie King",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Normani",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Chris Brown",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Cardi B",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Meek Mill",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Jordin Sparks",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Eminem",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Meghan Trainor",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Kanye West",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Mariah Carey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Pitbull",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "Celine Dion",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Travis Scott",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Lil Wayne",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Adele",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Enrique Iglesias",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Alicia Keys",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Kendrick Lamar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Justin Timberlake",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Madonna",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "The Weeknd",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "DJ Khaled",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Christina Aguilera",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Sia Furler",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Quavo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Post Malone",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Pusha",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Sofia Reyes",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "David Guetta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Willy William",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Natti Natasha",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "ozuna",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Becky G",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Usher",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Nicky Jam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Karol G",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "Daddy Yankee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "Anne Marie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "Calvin Harris",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "Macklemore",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "Avril Lavigne",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        },
+        {
+            "name": "Hard Levels",
+            "localizedName": "ﺐﻌﺻ ﻯﻮﺘﺴﻣ",
+            "gameType": 3,
+            "useMixedTypes": false,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Sabrina Carpenter",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Joe Jonas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Kelly Clarkson",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Swae Lee",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Christina Perri",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Brendon Urie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Tori Kelly",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Paul McCartney",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Carly Rae Jepsen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Bazzi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Maren Morris",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Blanco Brown",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Kacey Musgraves",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Alec Benjamin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Mary J. Blige",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "John Legend",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Janelle Monae",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Elton John",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Troye Sivan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Ella Mai",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Lauv",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Miranda Lambert",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Dierks Bentley",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Nick Jonas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Rosalia",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Robbie Williams",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Jhene Aiko",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Kane Brown",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Kylie Minogue",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Blake Shelton",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "SZA",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Lewis Capaldi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Kelly Rowland",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Luke Bryan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Maggie Rogers",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "6lack",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Banks",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Chris Lane",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Daya",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Ben Platt",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Chely Wright",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Chris Stapleton",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Jorja Smith",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Luke Combs",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "Sigrid",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "Justin Moore",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Betty Who",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Blackbear",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Amy Shark",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Ty Dolla Sign",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Gabriella Wilson",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Pink Sweats",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "Ari Lennox",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Dermot Kennedy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Madison Beer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "James Blunt",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Hayley Kiyoko",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Daniel Caesar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Jessie Reyez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Mike Posner",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 3,
+                    "cost": 30
+                }
+            ]
+        },
+        {
+            "name": "Medium Levels",
+            "localizedName": "ﻂﺳﻮﺘﻣ ﻯﻮﺘﺴﻣ",
+            "gameType": 1,
+            "useMixedTypes": false,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Flo Rida",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Mark Ronson",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Zara Larsson",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Snoop Dogg",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Dr Dre",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Shania Twain",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Luis Fonsi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Maluma",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Wiz Khalifa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "50 Cent",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Bebe Rexha",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Ed Sheeran",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "James Arthur",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Jess Glynne",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Sean Paul",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Perrie Edwards",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "J Balvin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Rita Ora",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Charlie Puth",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Sean Combs Diddy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Charli XCX",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Sam Smith",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Pharrell Williams",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Carrie Underwood",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Lionel Richie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Michael Buble",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Miranda Lambert",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "The Game",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Willie Nelson",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Gloria Estefan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "Alessia Cara",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "Rick Ross",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "Ludacris",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "Ellie Goulding",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "Tove Lo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "George Ezra",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "Ricky Martin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "Kesha",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "Mary Lambert",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "Nick Carter",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "Jasmin Wagner",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "Billie Eilish",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "Liam Payne",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Danielle Bregoli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "G-Easy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "NOAH CYRUS",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "Halsey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "Louis Tomlinson",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "Lizzo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "Harry Styles",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Lorde",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "Niall Horan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "Lana Del Rey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "Melanie Martinez",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "Lil Pump",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "Ava Max",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "Iggy Azalea",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "Lil Nas X",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "Pink",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "Khalid",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 1,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "ﺐﻌﻟﺇ"
+        },
+        {
+            "key": 1,
+            "value": "ﺕﺎﻣﻮﻠﻌﻣ"
+        },
+        {
+            "key": 2,
+            "value": "ﺝﻭﺮﺧ"
+        },
+        {
+            "key": 3,
+            "value": "ﻉﻮﺟﺭ"
+        },
+        {
+            "key": 4,
+            "value": "ﺾﻌﺑ ﻞﺤﻟ ﺪﻌﺘﺳﺍ ﻡﺪﺨﺘﺳﺍ؟ﺖﻘﻠﻋ!ﺯﺎﻐﻟﻷﺍ ﺐﺴﻛﺍ!ﺔﻔﻠﺘﺨﻣ ﺕﺎﺤﻴﻤﻠﺗ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺩﻮﻘﻨﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻝﺎﻤﻜﺘﺳﺍ ﻝﻼﺧ ﺓﺪﻫﺎﺸﻣ ﻖﻳﺮﻃ ﻦﻋﻭﺃ !ﻊﺘﻤﺘﺳﺇ!ﺓﺮﻴﺼﻗ ﻊﻃﺎﻘﻣ"
+        },
+        {
+            "key": 5,
+            "value": "ﻖﻠﻐﻣ"
+        },
+        {
+            "key": 6,
+            "value": "ﻑﺮﺣ ﻦﻋ ﻒﺸﻜﻟﺍ"
+        },
+        {
+            "key": 7,
+            "value": "ﻑﻭﺮﺤﻟﺍ ﻑﺬﺣ"
+        },
+        {
+            "key": 8,
+            "value": "ﺔﺑﺎﺟﻹﺍ ﻰﻠﻋ ﻞﺼﺣﺇ"
+        },
+        {
+            "key": 9,
+            "value": "ﺩﻮﻘﻧ ﺔﻓﺎﺿﺇ"
+        },
+        {
+            "key": 10,
+            "value": "ﻥﻼﻋﻹﺍ ﺪﻫﺎﺷ"
+        },
+        {
+            "key": 11,
+            "value": "ﺔﻴﻘﻴﻘﺣ ﺩﻮﻘﻨﺑ ﺮﺘﺷﺍ"
+        },
+        {
+            "key": 12,
+            "value": "ﺭﺍﺮﻤﺘﺳﺍ"
+        },
+        {
+            "key": 13,
+            "value": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ"
+        },
+        {
+            "key": 14,
+            "value": "! ﺔﻠﺣﺮﻤﻟﺍ ﺖﻬﺘﻧﺍ"
+        },
+        {
+            "key": 15,
+            "value": "ﻰﻠﻋ ﺔﺒﻌﻠﻟﺍ ﻢﻴﻗ !ﺮﺠﺘﻤﻟﺍ"
+        },
+        {
+            "key": 16,
+            "value": "ﻡّﻴﻗ"
+        },
+        {
+            "key": 18,
+            "value": "ًﺎﻘﺣﻻ"
+        },
+        {
+            "key": 17,
+            "value": "ًﺍﺪﺑﺃ"
+        },
+        {
+            "key": 19,
+            "value": "ﺕﺎﻧﺎﻴﺒﻟﺍ ﻊﻤﺟ ﺔﻘﻓﺍﻮﻣ"
+        },
+        {
+            "key": 20,
+            "value": "ﺔﻴﺼﺨﺷ ﺕﺎﻧﻼﻋﺇ"
+        },
+        {
+            "key": 21,
+            "value": "ﺔﺼﺼﺨﻤﻟﺍ ﺕﺎﻧﻼﻋﻹﺍ ﺭﺎﻬﻇﺇﻭ ﺎﻬﻌﻤﺟ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺎﻧﻼﻋﻹﺍ ﺕﺎﻜﺒﺸﻟ ﺡﺎﻤﺴﻟﺍ"
+        },
+        {
+            "key": 22,
+            "value": "ﻢﻌﻧ"
+        },
+        {
+            "key": 23,
+            "value": "ﻻ"
+        },
+        {
+            "key": 24,
+            "value": "!ﻞﻀﻓﺃ ﻡﺪﻘﺗ ﻥﺃ ﻦﻜﻤﻳ"
+        },
+        {
+            "key": 25,
+            "value": "؟ﻪﻠﻴﻤﺤﺗ ﺪﻳﺮﺗ ﻞﻫ"
+        },
+        {
+            "key": 26,
+            "value": "، ﻚﻣﻼﻋﻹ ﻂﻘﻓ !ﺎﺒﺣﺮﻣ  ﺕﺎﻧﺎﻴﺑ ﻡﺪﺨﺘﺴﻧ ﻦﺤﻧ ﻚﺘﻘﻓﺍﻮﻤﺑ ﺯﺎﻬﺠﻟﺍو ﺐﻌﻠﻟﺍ !ﺎﻨﺘﺒﻌﻟ ﻦﻴﺴﺤﺘﻟ "
+        },
+        {
+            "key": 27,
+            "value": "ﻚﻟ ﻡﺪﻘﻧ ﻥﺃ ﺎﻨﻣ ﺪﻳﺮﺗ ﻞﻫ ﺔﻠﺻ ﺕﺍﺫ ﺕﺎﻧﻼﻋﺇ  ؟ﻚﺗﺎﻣﺎﻤﺘﻫﺍ ﺐﺳﺎﻨﺗ "
+        },
+        {
+            "key": 28,
+            "value": "ﻖﻓﺍﻭﺃ"
+        },
+        {
+            "key": 29,
+            "value": "ﺪﻳﺰﻤﻟﺍ"
+        },
+        {
+            "key": 30,
+            "value": "ﺔﺌﻃﺎﺧ ﺔﺑﺎﺟﺇ ﻑﺬﺣ"
+        },
+        {
+            "key": 31,
+            "value": "ﺄﻄﺧ ﻦﻴﺘﺑﺎﺟﺇ ﻑﺬﺣ"
+        },
+        {
+            "key": 32,
+            "value": "ﺄﻄﺨﻠﻟ ﺔﺻﺮﻓ"
+        },
+        {
+            "key": 33,
+            "value": "!ﻯﻮﺘﺴﻤﻟﺍ ﻝﺎﻤﻛﻹ ﻲﻧﺪﻋﺎﺳ"
+        },
+        {
+            "key": 34,
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻦﻣ ﺓﺪﻋﺎﺴﻣ"
+        },
+        {
+            "key": 35,
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻝﺄﺳﺇ"
+        },
+        {
+            "key": 36,
+            "value": "ﻦﻫﺍﺭ"
+        },
+        {
+            "key": 37,
+            "value": "ﻚﺘﻬﺟﺍﻭ ﺍﺫﺇ ﺕﺎﺤﻴﻤﻠﺗ ﻡﺪﺨﺘﺳﺍ !ﺔﻠﻜﺸﻣ"
+        },
+        {
+            "key": 38,
+            "value": "ﻪﺤﺴﻤﻟ ﻑﺮﺤﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ"
+        },
+        {
+            "key": 39,
+            "value": "!ﺓﺭﻮﺼﻟﺍ ﻦﻋ ﻒﺸﻜﻠﻟ ﻂﺸﻛﺃ"
+        },
+        {
+            "key": 40,
+            "value": "!ﺕﻼﻤﻋ ﺐﻠﻄﺘﻳ .ﺍًﺣﻮﺿﻭ ﺮﺜﻛﺃ ﺓﺭﻮﺼﻟﺍ ﻞﻌﺠﻟ ﺍﺬﻫ ﻕﻮﻓ ﺮﻘﻧﺍ"
+        },
+        {
+            "key": 41,
+            "value": "!ﺕﻼﻤﻋ ﻒﻠﻜﺗ ﺮﺜﻛﺃ ﺡﻮﺿﻮﻟ ﺮﻘﻧﺃ"
+        },
+        {
+            "key": 42,
+            "value": "!ﺕﻼﻤﻋ ﺐﻠﻄﺘﻳ .ﺭﺎﻨﻟﺍ ﻕﻼﻃﻹ ﺔﻴﻧﺎﺜﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ ﻂﻐﺿﺍ .ﺐﻳﻮﺼﺘﻟﺍ ﺀﺪﺒﻟ ﺍﺬﻫ ﻰﻠﻋ ﻂﻐﺿﺍ"
+        },
+        {
+            "key": 43,
+            "value": ".ﻕﻼﻃﻺﻟ ﻢﺛ ﺐﻳﻮﺼﺘﻠﻟﺮﻘﻧﺃ !ﺕﻼﻤﻋ ﻒﻠﻜﺗ"
+        },
+        {
+            "key": 44,
+            "value": "!ﺕﺎﻣﻮﻠﻌﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻘﻧﺍ"
+        },
+        {
+            "key": 45,
+            "value": "؟ﺔﻤﻬﻤﻟﺍ ﺔﺑﻮﻌﺻ ﻯﺪﻣ ﺎﻣ !ﺢﻴﺤﺻ ﻥﺎﻫﺮﺑ ﻢﻗ"
+        },
+        {
+            "key": 46,
+            "value": "ﺎﻨﺑﺎﻌﻟﺃ"
+        },
+        {
+            "key": 47,
+            "value": "ﺔﻟﻭﺎﺤﻤﻟﺍ ﺪﻋﺃ"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        113,
+        109,
+        112,
+        110,
+        114,
+        111,
+        108,
+        118,
+        99,
+        115,
+        97,
+        106,
+        100,
+        122,
+        101,
+        104,
+        102,
+        103,
+        105,
+        120,
+        117
+    ]
+}
